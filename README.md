@@ -1,5 +1,7 @@
 <h3 align="center">Hi there 👋 I'm Cyber (aka Monique Oliveira)</h3>
 <p align="center">
+  <img src="source.gif">
+  <br>
   <a href="https://moniquelive.com">Website (pt-BR)</a> •
   <a href="https://stackoverflow.com/users/9793/cyber-oliveira">StackOverflow</a> •
   <a href="https://www.linkedin.com/in/moniquelive/">LinkedIn</a> •
